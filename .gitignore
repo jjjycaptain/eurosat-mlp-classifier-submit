@@ -1,0 +1,16 @@
+# 数据集和课程初始压缩包
+hw1/
+EuroSAT_RGB/
+hw1.zip
+
+# 训练得到的模型权重
+outputs/checkpoints/best_model.npz
+
+# 本地临时文件
+tmp/
+
+# Python 缓存和本地环境
+__pycache__/
+*.pyc
+.venv/
+venv/
