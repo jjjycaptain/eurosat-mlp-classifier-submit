@@ -1,8 +1,8 @@
-# EuroSAT MLP Classifier 交付说明
+# EuroSAT MLP Classifier
 
 ## 内容说明
 
-本压缩包包含 EuroSAT_RGB 三层 MLP 图像分类作业的代码、实验报告和实验输出说明。由于数据集和模型权重较大，需要按下文说明手动准备。
+本项目包含 EuroSAT_RGB 三层 MLP 图像分类作业的代码、实验报告和实验输出说明。由于数据集和模型权重较大，需要按下文说明手动准备。
 
 主要内容：
 
